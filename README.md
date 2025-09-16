@@ -1,4 +1,5 @@
 # Employee-Management-System
 Full Stack Project with SpringBoot and React
 
-![Image](https://github.com/user-attachments/assets/5ad5afeb-b3a8-4077-a29d-3c35dd8832d0)
+
+<img width="867" height="857" alt="Full Stack output" src="https://github.com/user-attachments/assets/beaafcbb-fc0d-45d7-8bb9-898ab0c3d981" />
